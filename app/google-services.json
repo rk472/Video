@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "363027148903",
+    "firebase_url": "https://videoplayer-4d172.firebaseio.com",
+    "project_id": "videoplayer-4d172",
+    "storage_bucket": "videoplayer-4d172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363027148903:android:3471d2fe37bc061b",
+        "android_client_info": {
+          "package_name": "com.swadeshiapps.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363027148903-5j4trockp21j3f7f7qg9f73spl226l59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swadeshiapps.video",
+            "certificate_hash": "0a0a24921c5f55a18cd40b33d7d4043249d794be"
+          }
+        },
+        {
+          "client_id": "363027148903-921m6gefq0iutguh2n9uur57cdnvrudk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6RA8nY2lN_v-HX_wwl7DGVGw-hbZR3Js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363027148903-921m6gefq0iutguh2n9uur57cdnvrudk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
